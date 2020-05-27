@@ -1,0 +1,9 @@
+D:\software\blazorinacap\AppClase01\Shared\bin\Debug\netstandard2.1\AppClase01.Shared.deps.json
+D:\software\blazorinacap\AppClase01\Shared\bin\Debug\netstandard2.1\AppClase01.Shared.dll
+D:\software\blazorinacap\AppClase01\Shared\bin\Debug\netstandard2.1\AppClase01.Shared.pdb
+D:\software\blazorinacap\AppClase01\Shared\obj\Debug\netstandard2.1\AppClase01.Shared.csprojAssemblyReference.cache
+D:\software\blazorinacap\AppClase01\Shared\obj\Debug\netstandard2.1\AppClase01.Shared.csproj.CoreCompileInputs.cache
+D:\software\blazorinacap\AppClase01\Shared\obj\Debug\netstandard2.1\AppClase01.Shared.AssemblyInfoInputs.cache
+D:\software\blazorinacap\AppClase01\Shared\obj\Debug\netstandard2.1\AppClase01.Shared.AssemblyInfo.cs
+D:\software\blazorinacap\AppClase01\Shared\obj\Debug\netstandard2.1\AppClase01.Shared.dll
+D:\software\blazorinacap\AppClase01\Shared\obj\Debug\netstandard2.1\AppClase01.Shared.pdb
