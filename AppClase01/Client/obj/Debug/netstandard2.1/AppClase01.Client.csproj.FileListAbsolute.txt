@@ -184,7 +184,6 @@ D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\AppClase01.C
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\AppClase01.Client.RazorTargetAssemblyInfo.cache
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\AppClase01.Client.csproj.CopyComplete
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
-D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\ozH0K-6nlyOW6M_GAAaNa_V3fnOcKUauyrDH3imdGKM=.hash
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\_IansbyiPIbBxBPwqKb6GLCNiqhuqeIc5S8yC5s7yF4=.hash
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\uaG3AW80GeXVlZrMLb3Q0VZ6jBkzXqzaUAgKgtZbStA=.hash
@@ -237,14 +236,12 @@ D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\zN
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\oAIlpv09S-0jXnze744E1V88Oaw8Ql1x3Alw0hsVYdw=.hash
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\u5WlE_3_OPkr0mlHMJ6pS5OWVuHC3rk2HWyyA3R_xVY=.hash
-D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\aQ9jUWJSolhY6AVU5xnc96Za3XZPgv2zgrz0zD1U_sc=.hash
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\TuHtAu7b9I4jO2XUavD8FGtgroH5EHWrhzaOKYp9KNM=.hash
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\iZCHkFXJWYNxCUFwhj_4oqR4fkEJc5YGjfTTvdIuX84=.hash
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\aFsebAaVKCmJl2K5EZooCF0zL34DsPr_kGZLo6WC_2c=.hash
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\SWtTaJ9XhCu62X17HfpwA9cLqrTGBo3YshChG82f6Xg=.hash
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\w9lwUvrK7GtgqLQXRk9jAxDMbOp6laoy9fUFTj3h3AA=.hash
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AppClase01.Client.dll.gz
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -369,3 +366,8 @@ D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\staticwebass
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\staticwebassets\AppClase01.Client.StaticWebAssets.xml
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\AppClase01.Client.dll
 D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\AppClase01.Client.pdb
+D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\ListaProductos.razor.g.cs
+D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\Razor\Pages\ListaProductos.razor.g.cs
+D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\icM0YdhdB7AYPqEqUtAKNxOqxyZWsRZiQMrlVEPz1x8=.hash
+D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\PPTpEsKGuwkEyuBSG0iCtD3WfA2L8zc8_4dpMWDk9DU=.hash
+D:\software\blazorinacap\AppClase01\Client\obj\Debug\netstandard2.1\integrity\WXzBjtwzK_jJkiLEwShQi2yb3Kx-mL0RDZMoIgbLO2o=.hash

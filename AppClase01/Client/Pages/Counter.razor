@@ -6,6 +6,8 @@
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
+<SurveyPrompt Nombre="@Nombre" FechaCreado="@FechaCreado" img="@img" desc="@desc"/>
+
 @code {
     private int currentCount = 0;
 
@@ -13,4 +15,10 @@
     {
         currentCount++;
     }
+
+    string Nombre = "Cerveza Cristal 350 ml";
+    DateTime FechaCreado = new DateTime(2020, 3, 20);
+    string img = "https://res.cloudinary.com/efebyte/image/upload/v1590620896/claseinacap/cerveza.jpg";
+    string desc = "Encuentra lo mejor en mi Tienda";
+
 }

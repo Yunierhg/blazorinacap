@@ -1,16 +1,24 @@
-﻿<div class="alert alert-secondary mt-4" role="alert">
-    <span class="oi oi-pencil mr-2" aria-hidden="true"></span>
-    <strong>@Title</strong>
-
-    <span class="text-nowrap">
-        Please take our
-        <a target="_blank" class="font-weight-bold" href="https://go.microsoft.com/fwlink/?linkid=2127014">brief survey</a>
-    </span>
-    and tell us what you think.
+﻿<div class="card" style="width: 18rem;">
+    <img src="@img" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title">@Nombre</h5>
+        <em>Fecha de Creado: @FechaCreado.ToString("dd MMM yyyy")</em>
+        <p class="card-text">@desc</p>
+        <a href="#" class="btn btn-primary">Ver</a>
+    </div>
 </div>
 
 @code {
     // Demonstrates how a parent component can supply parameters
     [Parameter]
-    public string Title { get; set; }
+    public string Nombre { get; set; }
+
+    [Parameter]
+    public DateTime FechaCreado { get; set; }
+
+    [Parameter]
+    public string img { get; set; }
+
+    [Parameter]
+    public string desc { get; set; }
 }

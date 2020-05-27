@@ -1,0 +1,48 @@
+﻿<h3>ListaProductos</h3>
+@if (Productos == null)
+{
+    <img src="https://www.tuxco.com/wp-content/themes/tuxco/src/public/assets/images/loader.gif" />
+}
+else if (Productos.Count == 0)
+{
+    <text>No se Encontraron Productos ....</text>
+}
+else
+{
+    
+        @foreach (var producto in Productos)
+        {
+        <SurveyPrompt Nombre="@producto.Nombre" FechaCreado="@producto.FechaCreado" img="@producto.img" desc="@producto.desc" />
+        }
+    
+}
+
+@code {
+
+    public List<Producto> Productos;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await Task.Delay(3000);
+        Productos = ObtenerProductos();
+    }
+
+    private List<Producto> ObtenerProductos()
+    {
+        return new List<Producto>()
+{
+            new Producto(){ Nombre = "Chocolate",FechaCreado = new DateTime(2020, 5, 20), img = "https://res.cloudinary.com/efebyte/image/upload/w_70,h_53,c_scale/v1590620898/claseinacap/trencito.png", desc="Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."},
+            new Producto(){ Nombre = "Cerveza Cristal",FechaCreado = new DateTime(2020, 5, 21), img = "https://res.cloudinary.com/efebyte/image/upload/w_70,h_53,c_scale/v1590620896/claseinacap/cerveza.jpg", desc="Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus." },
+            new Producto(){ Nombre = "Galletas Maria",FechaCreado = new DateTime(2020, 5, 22), img = "https://res.cloudinary.com/efebyte/image/upload/w_70,h_53,c_scale/v1590620895/claseinacap/galletas.webp", desc="Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus." },
+        };
+    }
+
+    public class Producto
+    {
+        public string Nombre { get; set; }
+        public DateTime FechaCreado { get; set; }
+        public string img { get; set; }
+        public string desc { get; set; }
+    }
+
+}
